@@ -1,3 +1,7 @@
+"""
+Contrôle sur le terminal :
+mypy --strict .\index003_main.py
+"""
 
 from collections.abc import Iterable
 from typing import Dict, List, Any

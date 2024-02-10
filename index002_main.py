@@ -1,5 +1,8 @@
 """
 Recours au type Final
+
+Contrôle sur le terminal :
+mypy --strict .\index002_main.py
 """
 
 from typing import Final
