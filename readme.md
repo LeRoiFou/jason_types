@@ -13,6 +13,8 @@ Python est conçu avec un typage dynamique, c'est à dire qu'il nécessaire de d
   * n-uplets **-> Fichier index004_main**
   * Callable **-> Fichier index005_main**
   * Surcharges de méthodes / fonctions -> **Fichier index006_main**
+  * Génériques **-> Fichier index007_main**
+  * Les alias, les nouveaux types -> Fichier index008_main
 
 Avec la librairie [mypy](https://pypi.org/project/mypy/) de python, il est possible de contrôle les typages appliqués. Pour cela, il suffit après avoir installé mypy, de saisir l'instruction suivante dans le terminal :
 
